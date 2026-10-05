@@ -1,4 +1,4 @@
-const CACHE='anatomia-3d-v1';
+const CACHE='anatomia-3d-v2';
 const FILES=[
   './','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png',
   './assets/1000041297.png','./assets/1000041298.png','./assets/1000041299.png','./assets/1000041300.png',
